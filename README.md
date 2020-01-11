@@ -14,7 +14,7 @@ Below the pipeline for face recognition:
 
 ### How to install
 ```git
-pip install git+https://github.com/paoloripamonti/face-recognition
+pip install git+https://github.com/wasit7/face-recognition
 ```
 
 ### How to train custom model
