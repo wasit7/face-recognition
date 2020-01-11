@@ -1,9 +1,9 @@
-opencv-python
-mtcnn
+opencv-python==4.1
+mtcnn==0.0.9
 sklearn
 tqdm
 numpy
-keras_facenet
-imutils
-pandas
-tensorflow==1.13.1
+keras_facenet==0.1a5
+imutils==0.5.3
+pandas==0.25
+tensorflow==1.14
